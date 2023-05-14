@@ -1,6 +1,6 @@
 # PlaySync
 for when SyncPlay doesnt work for no obvious reason :'(
-# installation 
+# Installation 
 install latest version of Python
 requires following modules:
 
@@ -20,7 +20,7 @@ subtitle_name = '11.srt'
 then run the code!
 
 
-# known issues
+# Known issues
 current version has following known issues:
 
   1- can't delay subtitle
