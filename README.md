@@ -30,11 +30,13 @@ current version has following known issues:
   
 # TODO
 
-1- adding GUI
+1- add GUI
 
-2- packaging the shit
+2- package the shit
 
-3- adding security, which is non-existent right now
+3- add security, which is non-existent right now
+
+4- add error handling
 
 
 
